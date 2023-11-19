@@ -25,14 +25,7 @@ FireArm was developed using React, a popular JavaScript library for building use
 
 
 ## User Interface
-![Screenshot 2023-11-20 at 12.42.34 am.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fqb%2F41n652tn0xj1pt1g6r_30jjr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_DcCOEP%2FScreenshot%202023-11-20%20at%2012.42.34%E2%80%AFam.png)
-![Screenshot 2023-11-20 at 12.42.49 am.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fqb%2F41n652tn0xj1pt1g6r_30jjr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_k5KxCL%2FScreenshot%202023-11-20%20at%2012.42.49%E2%80%AFam.png)
-![Menu Page.png](..%2F..%2FDownloads%2FTeam%2011%20wireframe%20DRAFT%2FMenu%20Page.png)
-![Screen 1_ Homescreen.png](..%2F..%2FDownloads%2FTeam%2011%20wireframe%20DRAFT%2FScreen%201_%20Homescreen.png)
-![Screen 3_ Submission Confirmation.png](..%2F..%2FDownloads%2FTeam%2011%20wireframe%20DRAFT%2FScreen%203_%20Submission%20Confirmation.png)
-![Screen 9_ Fire Markings Report details.png](..%2F..%2FDownloads%2FTeam%2011%20wireframe%20DRAFT%2FScreen%209_%20Fire%20Markings%20Report%20details.png)
-
-
-
-
-
+![Menu Page.png](assets%2Freadme-assest%2FMenu%20Page.png)
+![Screen 1_ Homescreen.png](assets%2Freadme-assest%2FScreen%201_%20Homescreen.png)
+![Screen 3_ Submission Confirmation.png](assets%2Freadme-assest%2FScreen%203_%20Submission%20Confirmation.png)
+![Screen 9_ Fire Markings Report details.png](assets%2Freadme-assest%2FScreen%209_%20Fire%20Markings%20Report%20details.png)
